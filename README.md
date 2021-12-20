@@ -4,7 +4,7 @@
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-macedo-644bb21b8/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/itsjoaovreis@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHmqfhSPMFXcCPXhzKwRBdFNqzSzbGXPjVRqdlqTmVCPSGzVqhjvZcHsbtQdTqgrdSCHg)
 
 ![jv-dev1 GitHub stats](https://github-readme-stats.vercel.app/api?username=jv-dev1&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jv-dev1&layout=compact&theme=tokyonight)](https://github.com/jv-dev1/github-readme-stats)
 
